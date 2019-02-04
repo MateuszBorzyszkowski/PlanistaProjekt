@@ -1,5 +1,5 @@
 # PlanistaProjekt
-##Opis projektu: 
+## Opis projektu: 
 Jednym z zadań systemu operacyjnego jest przydział czasu procesora poszczególnym procesom. Napisz program realizujący prostego planistę.
 
 Czas procesora powinien być przydzielany według następujących zasad:
